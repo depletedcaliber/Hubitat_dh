@@ -5,7 +5,7 @@
  *  2018-10-27 - Initial release
  *  2018-11-18 - Typo in comments, fix parameter for timer
  *  2018-11-19 - Fix LED parameter for all values
- *  2019-03-16 - Porting to Hubitat
+ *  2019-03-16 - Ported to HE from https://github.com/doncaruana/SmartThings-doncaruana only change tiles commented out and physicalgraph to hubitat
  *
  *  Supported Command Classes
  *  
